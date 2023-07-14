@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import "./assets/App.css";
 import Aos from "aos";
 import "aos/dist/aos.css";
-import "../test/hovertree";
+//import "../test/hovertree";
 import Home from "./Pages/home";
 
 import { Route, Routes } from "react-router-dom";
